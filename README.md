@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python
-- 😄 Pronouns: The codin' danger
 - ⚡ Fun fact: I breath code!
 - 📫 How to reach me: iamjaydevprajapati@gmail.com
 
