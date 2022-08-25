@@ -1,4 +1,4 @@
-### Hi, I am Jaydev Prajapati
+### Hello there! I am Jaydev Prajapati
 
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: I breath code!
